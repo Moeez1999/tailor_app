@@ -1,0 +1,41 @@
+const Map<String, String> enUS = {
+  "Language": "Language",
+  "Tailor Book": "Tailor Book",
+  "Home": "Home",
+  "New Record": "New Record",
+  "Name": "Full Name",
+  "Number": "Phone Number",
+  "Length": "Length",
+  "Arm": "Arm Length",
+  "kennel": "Kennel (Mori)",
+  "Teera": "Teera",
+  "Chest": "Chest",
+  "boundary": "Boundary (Ghera)",
+  "paincha": "Paincha",
+  "ShalwarLength": "Shalwar Length",
+  "Cuff": "Cuff",
+  "Aasan": "Aasan",
+  "Belt": "Belt",
+  "Trouser": "Trouser/Shalwar",
+  "MondaGolai": "Monda Golai",
+  "Design": "Style",
+  "Address": "Address",
+  "SaveNow": "Save Now",
+  "ViewDetail": "View Detail",
+  "SearchHere": "Search Here",
+  "Do you really want to delete it?":"Do you really want to delete it?",
+  "Call Now": "Call Now",
+  "Cancel":"Cancel",
+  "Yes":"Yes",
+  "No Records Found":"No Records Found",
+  "Sign Out":"Sign Out",
+  "Collar tip":"Collar Tip",
+  "front pocket":"Front Pocket",
+  "side pockets":"Side Pockets",
+  "shalwar pocket":"Shalwar Pocket",
+  "BoundaryShape":"Boundary round/square"
+
+
+
+
+};

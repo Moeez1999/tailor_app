@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">382469944935-d6fu7jmcigmstq5v4r5f656bdv46hg9h.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">382469944935</string>
+    <string name="google_api_key" translatable="false">AIzaSyDum-Z1X7VkKcDbC_fuhuevdeKvGmJo87g</string>
+    <string name="google_app_id" translatable="false">1:382469944935:android:b3caf3a26f47baba3e46c2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDum-Z1X7VkKcDbC_fuhuevdeKvGmJo87g</string>
+    <string name="google_storage_bucket" translatable="false">tailor-book-e570c.appspot.com</string>
+    <string name="project_id" translatable="false">tailor-book-e570c</string>
+</resources>
